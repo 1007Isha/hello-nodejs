@@ -1,1 +1,0 @@
-onsole.log("Student of be cse");
